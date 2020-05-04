@@ -1,0 +1,7 @@
+C:\Users\Администратор\source\repos\ConsoleApp3\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\Администратор\source\repos\ConsoleApp3\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Администратор\source\repos\ConsoleApp3\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Администратор\source\repos\ConsoleApp3\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\ConsoleApp3\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\ConsoleApp3\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\Администратор\source\repos\ConsoleApp3\TCPServer\obj\Debug\TCPServer.pdb
